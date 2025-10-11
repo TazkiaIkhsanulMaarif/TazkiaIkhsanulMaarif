@@ -3,7 +3,7 @@
 I'm a passionate **Game Developer** working mainly with **Unity**.  
 I love building gameplay systems, prototyping ideas, and learning about performance optimization, shaders, and C# scripting.  
 
-Besides development, I run **[Codeester](https://codeester.dev)** — a platform where I share and sell **Unity game templates** to help other developers start their projects faster.
+Besides development, I run **[Codeester]([https://codeester.dev](https://www.codester.com/Mandiri))** — a platform where I share and sell **Unity game templates** to help other developers start their projects faster.
 
 ---
 
