@@ -1,79 +1,75 @@
-# 🎮 Hi there 👋 , I'm Zake!
+# 📊 Hi there 👋, I'm Arip!
 
-I'm a passionate **Game Developer** working mainly with **Unity**.  
-I love building gameplay systems, prototyping ideas, and learning about performance optimization, shaders, and C# scripting.  
+I'm an aspiring **Data Analyst & Business Intelligence Analyst** with a background in Informatics Engineering and software development.
 
-Besides development, I run **[Codeester](https://www.codester.com/Mandiri)** — a platform where I share and sell **Unity game templates** to help other developers start their projects faster.
+I enjoy transforming raw data into actionable insights through data analysis, visualization, and reporting. My experience in programming, debugging, and problem-solving has strengthened my analytical thinking and attention to detail.
+
+Currently, I'm building expertise in **SQL, Python, Excel, Power BI, Tableau, and Business Intelligence**, while completing professional certifications from Google, IBM, and Meta.
 
 ---
 
-### 🧰 Tools & Tech Stack:
+## 🧰 Tools & Technologies
+
 <p>
-    <img src="https://img.shields.io/badge/Game_Engine-Unity-000?&logo=unity" />
-    <img src="https://img.shields.io/badge/Language-C%23-239120?&logo=c-sharp" />
-    <img src="https://img.shields.io/badge/Scripting-Lua-2C2D72?&logo=lua" />
-    <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?&logo=visual-studio-code" />
-    <img src="https://img.shields.io/badge/3D_Tool-Blender-F5792A?&logo=blender" />
-    <img src="https://img.shields.io/badge/Version_Control-Git-orange?&logo=git" />
+    <img src="https://img.shields.io/badge/Data_Analysis-Python-3776AB?&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Database-SQL-4479A1?&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visualization-Power_BI-F2C811?&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Visualization-Tableau-E97627?&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spreadsheet-Excel-217346?&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Analytics-Looker_Studio-4285F4?&logo=googleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Programming-Python-3776AB?&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Version_Control-Git-F05032?&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 What I'm Working On
-<details>
- <summary><strong>Click to expand!</strong></summary>
+## 🚀 What I'm Working On
 
- - 🎮 Building Unity templates and tools for **Codeester**  
- - 🔭 Experimenting with multiplayer systems & procedural generation  
- - 🌱 Learning more about C# patterns and Unity DOTS  
- - 👯 Open to collaborate on gameplay and system architecture  
- - 💬 Ask me about Unity scripting, logic design, or optimization  
- - 📫 Reach me at: <a href="mailto:codeester.dev@gmail.com">codeester.dev@gmail.com</a>  
- - ⚡ Fun fact: I can spend hours tweaking one line of shader code 😅  
+<details>
+<summary><strong>Click to expand!</strong></summary>
+
+* 📈 Building end-to-end data analytics projects
+* 📊 Creating interactive dashboards with Power BI and Tableau
+* 🐍 Improving Python skills for data analysis and automation
+* 🗄️ Practicing SQL for data extraction and business reporting
+* 🌱 Completing Google, IBM, and Meta Data Analytics certifications
+* 💡 Exploring Business Intelligence and KPI-driven decision making
+* 📫 Reach me at: <a href="mailto:tazkiaikhsanul@gmail.com">[tazkiaikhsanul@gmail.com](mailto:tazkiaikhsanul@gmail.com)</a>
+
 </details>
 
 ---
 
-### 📊 GitHub Stats
+## 📂 Featured Projects
+
+* 📊 Sales Performance Dashboard (Power BI)
+* 🛒 Customer Segmentation Analysis (Python & SQL)
+* 📈 Business KPI Reporting Dashboard
+* 🧹 Data Cleaning & Exploratory Data Analysis Projects
+* 📉 Market & Trend Analysis Case Studies
+
+---
+
+## 📊 GitHub Stats
+
 <p>
-    <!-- Ganti "zakedev" dengan username GitHub kamu -->
-    <img src="https://github-readme-stats.vercel.app/api?username=zakedev&show_icons=true&hide_border=true&theme=tokyonight" height=180 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakedev&layout=compact&theme=tokyonight" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height=180 />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+## 🌐 Let's Connect!
+
 <p>
-    <a href="https://codeester.dev" target="blank">
-        <img src="https://img.shields.io/badge/Codeester-Game%20Templates-E36049?style=flat&logo=unity" />
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Arip-0077B5?style=flat&logo=linkedin" />
     </a>
-    <a href="https://codeester.itch.io" target="blank">
-        <img src="https://img.shields.io/badge/Itch.io-Codeester-E36049?style=flat&logo=itch.io" />
-    </a>
-    <a href="https://www.linkedin.com/in/codeester/" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Zake_Dev-0077B5?style=flat&logo=linkedin" />
+    <a href="https://github.com/YOUR_USERNAME" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github" />
     </a>
 </p>
 
 ---
 
-> “Build once. Share endlessly.” – Zake  
-> Templates, tools, and games from a passionate Unity dev 🎮
-
-
-
-<!--
-**TazkiaIkhsanulMaarif/TazkiaIkhsanulMaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Turning data into insights and insights into decisions."
