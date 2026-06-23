@@ -62,7 +62,7 @@ Currently, I am developing expertise in SQL, Python, Excel, Power BI, Tableau, a
 ## 🌐 Let's Connect!
 
 <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+    <a href="https://www.linkedin.com/in/moh-tazkia-ikshanul-ma-arif-72aaa840b/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Arip-0077B5?style=flat&logo=linkedin" />
     </a>
     <a href="https://github.com/YOUR_USERNAME" target="blank">
