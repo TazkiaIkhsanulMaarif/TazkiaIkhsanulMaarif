@@ -1,10 +1,10 @@
 # 📊 Hi there 👋, I'm Arip!
 
-I'm an aspiring **Data Analyst & Business Intelligence Analyst** with a background in Informatics Engineering and software development.
+I'm an aspiring Data Analyst & Business Intelligence Analyst with a background in Informatics Engineering and software development.
 
-I enjoy transforming raw data into actionable insights through data analysis, visualization, and reporting. My experience in programming, debugging, and problem-solving has strengthened my analytical thinking and attention to detail.
+I am passionate about transforming data into meaningful business insights through data analysis, visualization, and reporting. My experience in programming, debugging, and problem-solving has strengthened my analytical mindset, attention to detail, and ability to translate data into actionable recommendations.
 
-Currently, I'm building expertise in **SQL, Python, Excel, Power BI, Tableau, and Business Intelligence**, while completing professional certifications from Google, IBM, and Meta.
+Currently, I am developing expertise in SQL, Python, Excel, Power BI, Tableau, and Business Intelligence while pursuing professional certifications from Google, IBM, and Meta.
 
 ---
 
