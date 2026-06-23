@@ -42,7 +42,7 @@ Currently, I am developing expertise in SQL, Python, Excel, Power BI, Tableau, a
 
 ## 📂 Featured Projects
 
-* 📊 [Cyclistic Membership Conversion Analysis](https://github.com/TazkiaIkhsanulMaarif/cyclistic-membership-conversion-analysis) (Power BI & BigQuery)
+* 📊 [Cyclistic Membership Conversion Analysis](https://github.com/TazkiaIkhsanulMaarif/cyclistic-membership-conversion-analysis) (Python, Power BI, & BigQuery)
 * 🛒 Customer Segmentation Analysis (Python & SQL)
 * 📈 Business KPI Reporting Dashboard
 * 🧹 Data Cleaning & Exploratory Data Analysis Projects
