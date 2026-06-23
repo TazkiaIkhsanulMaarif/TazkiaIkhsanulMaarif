@@ -53,7 +53,7 @@ Currently, I am developing expertise in SQL, Python, Excel, Power BI, Tableau, a
 ## 📊 GitHub Stats
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=TazkiaIkhsanulMaarif&show_icons=true&hide_border=true&cache_bust=1" height=180 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height=180 />
 </p>
 
